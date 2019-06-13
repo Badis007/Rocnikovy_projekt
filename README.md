@@ -3,5 +3,3 @@ Voděodolný senzor do bazénu, který měří teplotu vody, vzduchu, vlhkosti a
 
 
 Použité technologie: 
-  1) 
-  2)
