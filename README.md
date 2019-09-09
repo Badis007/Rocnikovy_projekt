@@ -1,4 +1,4 @@
-Návrhy na ročníkový projekt: 
+# Návrhy na ročníkový projekt: 
 
 # Chytrý odpadkový koš https://www.youtube.com/watch?v=9yrP1CZN3Ds 
 # Robot který kopíruje trasu po určité křivce https://www.youtube.com/watch?v=6dBEYPk21wo                 
