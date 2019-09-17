@@ -22,7 +22,9 @@ https://www.banggood.com/3-IN-1-120pcs-10cm-Male-To-Female-Female-To-Female-Male
 
 https://www.banggood.com/Wholesale-Arduino-Compatible-R3-UNO-ATmega16U2-AVR-USB-Board-p-68537.html?rmmds=search&cur_warehouse=UK
 
+https://www.hwkitchen.cz/sada-2ks-kol-a-motoru-s-prevodovkou-pro-arduino-robota/
 
+Dual Motor Driver Module 1A TB6612FNG For Arduino Microcontroller ????
 
 # Problémy:
 
