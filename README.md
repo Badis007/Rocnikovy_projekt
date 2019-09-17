@@ -11,4 +11,4 @@ Prosinec - zpracování dokumentace.
 
 Leden - dokončení a doladění projektu.
 # Problémy:
-Vím o tom úplné hovno.
+
