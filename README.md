@@ -26,5 +26,8 @@ https://www.hwkitchen.cz/sada-2ks-kol-a-motoru-s-prevodovkou-pro-arduino-robota/
 
 Dual Motor Driver Module 1A TB6612FNG For Arduino Microcontroller ????
 
+3-6V Dual Axis Gear Motor with 65mm Rubber Wheel ???
+
+
 # Problémy:
 
