@@ -24,6 +24,8 @@ https://www.banggood.com/Wholesale-Arduino-Compatible-R3-UNO-ATmega16U2-AVR-USB-
 
 https://www.hwkitchen.cz/sada-2ks-kol-a-motoru-s-prevodovkou-pro-arduino-robota/
 
+https://www.laskarduino.cz/wemos-d1-r2-uno-esp8266/
+
 Dual Motor Driver Module 1A TB6612FNG For Arduino Microcontroller ????
 
 3-6V Dual Axis Gear Motor with 65mm Rubber Wheel ???
