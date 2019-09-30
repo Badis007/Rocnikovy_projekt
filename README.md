@@ -1,4 +1,4 @@
-# Ročníkový projekt - balanční robot
+# Ročníkový projekt - autíčko ovládané přes wifi
 
 Inspirace - https://www.youtube.com/watch?v=zJnDbdefeCA
 
