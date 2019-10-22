@@ -14,7 +14,7 @@ Prosinec - zpracování dokumentace.
 Leden - dokončení a doladění projektu.
 # Potřebné součástky
 
-laskaarduino xd
+už jsou doma 
 
 
 # Problémy:
