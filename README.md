@@ -24,4 +24,4 @@ už jsou doma
 
 
 # Problémy:
-
+ 1. Instalace ESP8266 v platformiu pro windows, problém jsem vyřešil odinstalací nepotřebného platformia a použitím daleko lepšího arduina    IDE, které fungovalo naprosto podle očekávání a splnilo všechny požadavky hlavně díky jednoduché a rychlé instalaci ve windows.
