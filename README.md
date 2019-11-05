@@ -25,3 +25,5 @@ už jsou doma
 
 # Problémy:
  1. Instalace ESP8266 v platformiu pro windows. Problém jsem vyřešil odinstalací nepotřebného platformia a použitím daleko lepšího arduina    IDE, které fungovalo skvěle a splnilo všechny požadavky hlavně díky jednoduché a rychlé instalaci ve windows.
+ 
+ 2. Roztočení jednoho kolečka s motorkem. Jsme debil a neumím strčit správně baterky do holderu.
