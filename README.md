@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=mJEftoeSBOU
 - Sestavení autíčka doma bez podvozku, následné rozebrání pro přenos do školy, o víkendu následné sestavení na nový podvozek a   nalepení tavící pistolí. 
 - vyřešení připojení na wifi + tvorba jednoduché aplikace. 
 - Návrh dokumentace ohledně tvorby apliakce. 
+
+# Odkazy: 
+- ESP8266 https://navody.arduino-shop.cz/navody-k-produktum/esp8266-vyvojova-deska-wemos-d1.html
+- L298N https://robotelektro.cz/moduly-sestavene?product_id=81
+- Motor s převodovkou https://www.hwkitchen.cz/motor-s-prevodovkou-pro-arduino-robota/
