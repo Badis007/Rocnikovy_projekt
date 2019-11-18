@@ -18,13 +18,17 @@ Listopad - nastudování, vylepšení a pochopení kódu.
 Prosinec - zpracování dokumentace.
 
 Leden - dokončení a doladění projektu.
+
 # Potřebné součástky
-
-už jsou doma 
-
+- 4x motorek + kolečka
+- motor driver
+- ESP8266
+- battery holder 
+- přepínač
 
 # Problémy + Plány: 
-[x] platformio 
+- platformio  
 - Objednaný podvozek byl moc malý, náhrada kartonovým výřezem. [x]
 - Sestavení autíčka doma bez podvozku, následné rozebrání pro přenos do školy, o víkendu následné sestavení na nový podvozek a   nalepení tavící pistolí. [x]
 - vyřešení připojení na wifi + tvorba jednoduché aplikace. 
+- Návrh dokumentace ohledně tvorby apliakce. 
