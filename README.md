@@ -9,15 +9,15 @@ https://www.youtube.com/watch?v=gU7vlhU1HvU
 https://www.youtube.com/watch?v=mJEftoeSBOU
 
 # Harmonogram:
-Září - objednávka součástek, nastudování materiálu a informací.
+- [x] Září - objednávka součástek
 
-Říjen - zapojení součástek, stavba robota, obecná problematika projektu.
+- [x] Říjen - Pájení motorů, stavba podvozku
 
-Listopad - nastudování, vylepšení a pochopení kódu.
+- [ ] Listopad - primitivní aplikace, připojení na wifi, zapojení součástek na podvozek.
 
-Prosinec - zpracování dokumentace.
+- [ ] Prosinec - zpracování dokumentace, psaní kódu.
 
-Leden - dokončení a doladění projektu.
+- [ ] Leden - dokončení a doladění projektu.
 
 # Potřebné součástky
 - 4x motorek + kolečka
