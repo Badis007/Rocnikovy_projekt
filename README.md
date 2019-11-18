@@ -23,4 +23,8 @@ Leden - dokončení a doladění projektu.
 už jsou doma 
 
 
-# Problémy:
+# Problémy + Plány: 
+- platformio (vyřešeno)
+- Objednaný podvozek byl moc malý, náhrada kartonovým výřezem. 
+- Sestavení autíčka doma bez podvozku, následné rozebrání pro přenos do školy, o víkendu následné sestavení na nový podvozek a   nalepení tavící pistolí. 
+---> vyřešení připojení na wifi + tvorba jednoduché aplikace. 
