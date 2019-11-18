@@ -1,0 +1,26 @@
+
+#include "ESP8266WiFi.h"
+
+const char* ssid = "ssid"; //SSID
+const char* password = "password"; //Heslo
+
+void setup(void){ 
+  Serial.begin(115200);
+  
+  // Pripojeni k wifi
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+     delay(500);
+     Serial.print("*");
+  }
+  
+  Serial.println("");
+  Serial.println("Pripojeni se zdarilo");
+  Serial.print("IP adresa modulu ESP8266 je: ");
+  Serial.print(WiFi.localIP()); // IP adresa
+  
+}
+
+void loop() {
+  
+}
