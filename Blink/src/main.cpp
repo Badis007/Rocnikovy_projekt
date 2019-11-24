@@ -14,3 +14,5 @@ void loop()
   digitalWrite(LED, HIGH);
   delay(1000);
 }
+
+//Test ESP8266 pomocí blikání LED na pinu D0
