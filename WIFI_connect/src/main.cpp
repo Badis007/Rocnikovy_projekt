@@ -19,3 +19,5 @@ void loop()
   Serial.println("Ok!");
   delay(1000);
 }
+
+//Připojení ESP8266 na domácí wifi a vypsání na sériovou linku.
