@@ -1,12 +1,6 @@
 # Ročníkový projekt - autíčko ovládané přes wifi
 
-Inspirace - https://www.youtube.com/watch?v=zJnDbdefeCA
-
-https://www.youtube.com/watch?v=zJnDbdefeCA
-
-https://www.youtube.com/watch?v=gU7vlhU1HvU
-
-https://www.youtube.com/watch?v=mJEftoeSBOU
+Inspirace - https://www.youtube.com/watch?v=mJEftoeSBOU
 
 # Harmonogram:
 - [x] Září - objednávka součástek
