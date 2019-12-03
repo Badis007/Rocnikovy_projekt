@@ -2,6 +2,8 @@
 
 Inspirace - https://www.youtube.com/watch?v=mJEftoeSBOU
 
+tohle -> https://www.youtube.com/watch?v=gU7vlhU1HvU
+
 # Harmonogram:
 - [x] Září - objednávka součástek
 
