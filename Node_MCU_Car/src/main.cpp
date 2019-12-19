@@ -1,5 +1,6 @@
  #define ENA   14          // povoluje rychlost motoru doprava  na pinu GPIO14(D5)
 #define ENB   12          // povoluje rychlost motoru doleva  na pinu GPIO12(D6)
+
 #define IN_1  15          // L298N in1 motor doprava na pinu  GPIO15(D8)
 #define IN_2  13          // L298N in2 motor doprava na pinu  GPIO13(D7)
 #define IN_3  2           // L298N in3 motor doleva na pinu GPIO2(D4)
@@ -12,23 +13,28 @@
 String command;             //Řetězec na ukládání příkazů pro stavy motorů.
 int speedCar = 800;         // 400 - 1023.
 int speed_Coeff = 3;
+int cislo;
 
 const char* ssid = "NodeMCU Car";
+
 ESP8266WebServer server(80);
 
 void HTTP_handleRoot(void) {
 
-if( server.hasArg("State") ){
-       Serial.println(server.arg("State"));
+  if (server.hasArg("State")) {
+  cislo = server.arg("State").toInt();
+    
   }
   server.send ( 200, "text/html", "" );
   delay(1);
 }
 
+
 void setup() {
  
  pinMode(ENA, OUTPUT);
  pinMode(ENB, OUTPUT);  
+
  pinMode(IN_1, OUTPUT);
  pinMode(IN_2, OUTPUT);
  pinMode(IN_3, OUTPUT);
@@ -50,6 +56,7 @@ void setup() {
      server.onNotFound ( HTTP_handleRoot );
      server.begin();    
 }
+
 
 void goAhead(){ 
 
@@ -150,28 +157,28 @@ void stopRobot(){
       analogWrite(ENB, speedCar);
  }
 
+      
+
 void loop() {
     server.handleClient();
+      //command slouží k uklídání stavů motorů
     
-      command = server.arg("State");
-      if (command == "F") goAhead();
-      else if (command == "B") goBack();
-      else if (command == "L") goLeft();
-      else if (command == "R") goRight();
-      else if (command == "I") goAheadRight();
-      else if (command == "G") goAheadLeft();
-      else if (command == "J") goBackRight();
-      else if (command == "H") goBackLeft();
-      else if (command == "0") speedCar = 400;
-      else if (command == "1") speedCar = 470;
-      else if (command == "2") speedCar = 540;
-      else if (command == "3") speedCar = 610;
-      else if (command == "4") speedCar = 680;
-      else if (command == "5") speedCar = 750;
-      else if (command == "6") speedCar = 820;
-      else if (command == "7") speedCar = 890;
-      else if (command == "8") speedCar = 960;
-      else if (command == "9") speedCar = 1023;
-      else if (command == "S") stopRobot();
+    switch(cislo){
+      case 1:
+        goAhead();
+      break;
+      case 4:
+         goBack();
+      break;
+      case 3:
+          goLeft();
+      break;
+      case 2:
+        goRight();
+      break;
+      case 5:
+        stopRobot();
+      break;
+    }
 }
 
