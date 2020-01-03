@@ -25,7 +25,8 @@ tohle -> https://www.youtube.com/watch?v=gU7vlhU1HvU
 - Optimalizovaný kód, z aplikace uložena hodnota 1-5 pro každou funkci zvlášť do stringu, string se v ESP převede na int, poté je poslán      do switche pro splnění podmínek, následně vyvolána určitá funkce podle směru zmáčknutí tlačítka v aplikaci.
 - Kabely FM to FM nahrazeny za napájené spoje, přidán vypínač pro lepší přehlednost a vyhnutí se stálemu vytahování baterek z holderu. 
 - Kabely motorů vylepšeny a nahrazeny.
-
+- Optimalizovaný kód auta.
+- Doladění aplikace, jednoduchž design.
 
 
 # Potřebné součástky
