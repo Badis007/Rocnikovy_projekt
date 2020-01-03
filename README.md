@@ -27,6 +27,8 @@ tohle -> https://www.youtube.com/watch?v=gU7vlhU1HvU
 - Kabely motorů vylepšeny a nahrazeny.
 - Optimalizovaný kód auta.
 - Doladění aplikace, jednoduchž design.
+------------------------------------------
+- Dokumentace, napájet kolo z5, přilepit motor, test, prezentace
 
 
 # Potřebné součástky
